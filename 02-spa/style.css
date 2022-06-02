@@ -1,0 +1,22 @@
+#all-pages {
+    position: relative;
+}
+
+.page {
+    height: 100vh;
+    /* padding and margins will be part
+    of the box width and height */
+    box-sizing: border-box;
+    position: absolute;
+}
+
+#page-1 {
+    background-color: aliceblue;
+}
+
+#page-2 {
+    background-color: blanchedalmond;
+}
+#page-3 {
+    background-color: cornsilk;
+}
